@@ -11,11 +11,6 @@
       "path": "external/rust/crates/regex"
     }
   ],
-  "postsubmit": [
-    {
-      "name": "quickcheck_test_src_lib"
-    }
-  ],
   "presubmit": [
     {
       "name": "quickcheck_test_src_lib"
